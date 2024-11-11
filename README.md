@@ -2,7 +2,7 @@
 
 BizcardX is a Python application designed to extract business card details. The main purpose of BizcardX is to automate the process of extracting key details from business card images. 
 
-## Technologies Used ##
+## Requirements ##
 Python, easy OCR, Streamlit GUI, SQL, Pandas
 
 ## Approach ##
